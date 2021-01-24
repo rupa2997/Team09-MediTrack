@@ -1,0 +1,6 @@
+MediTrack will be a Web app as well as an Android app to help people with their medicine and doctors’ routine. It will store all the medications prescribed him or her and help maintain the stock till the time needed.
+
+Purpose of the system:
+To assist people in reminding them about medicines, tracking their current stock of the required medicines, getting the location of the nearest chemist shop and scheduling appointments at the nearest clinic.
+
+MediTrack is the Healthcare applicattion to help people with their medicine and doctor's routine.These app store all the information related current and past pprescription taken by people.and they also book appintment from these app.Receptionist also send notification about their appointment to particular person via mail.they also update their medical report in thses application.
